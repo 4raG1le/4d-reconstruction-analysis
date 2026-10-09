@@ -234,6 +234,10 @@ python metrics.py -m output/dynamic_indoor_scenes/chessboard --s val
 
 ![Конфликт точности и скорости](results/fps_vs_psnr.png)
 
+**Скриншот завершения обучения:**
+
+![Завершение обучения](results/screenshots/training_complete.png)
+
 **Сравнение с R5DGS (из статьи):**
 
 | Метод | PSNR (test) | FPS (test) | Сложность |

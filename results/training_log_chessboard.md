@@ -89,3 +89,7 @@ VRAM на densification — 82%, после стабилизации — 60%. З
 ### Конфликт точности и скорости (FPS vs PSNR)
 
 ![FPS vs PSNR](fps_vs_psnr.png)
+
+### Скриншот завершения обучения
+
+![Training complete](screenshots/training_complete.png)
